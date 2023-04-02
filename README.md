@@ -10,7 +10,6 @@ Refer to the dependencies of the following libraries that need to be installed
 * Pillow
 * errno
 * pyautogui 
-* Pillow 
 * argparse 
 * cv2 
 * shutil 
