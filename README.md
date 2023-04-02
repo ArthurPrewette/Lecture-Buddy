@@ -1,6 +1,7 @@
 Automatic-Note-Taker
 =====================
 Generates lecture transcriptions and OCR-enabled PDF's of online lectures. 
+
 Detects Full/Partial Slide Changes and Erased handwriting. 
 
 Dependencies
