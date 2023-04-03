@@ -8,7 +8,7 @@ Dependencies
 ============
 Supports python 3.(7-10)
 
-The following libraries which have their own dependencies must be installed:
+The following libraries, which have their own dependencies, must be installed:
 
 * Pillow
 * errno
