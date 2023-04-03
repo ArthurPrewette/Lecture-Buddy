@@ -1,4 +1,4 @@
-Automatic-Note-Taker
+Lecture-Buddy
 =====================
 Generates lecture transcriptions and OCR-enabled PDF's of online lectures. 
 
