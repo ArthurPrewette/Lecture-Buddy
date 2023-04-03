@@ -9,6 +9,7 @@ Dependencies
 Supports python 3.(7-10)
 
 Refer to the dependencies of the following libraries that need to be installed:
+
 * Pillow
 * errno
 * pyautogui 
